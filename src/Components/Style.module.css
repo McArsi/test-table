@@ -1,0 +1,14 @@
+.dragger{
+    cursor: col-resize;
+    height: 100%;
+    position: absolute;
+    right: -4px;
+    top: 0;
+    width: 8px;
+    z-index: 1;
+}
+
+.cell {
+    border: 3px solid #c2c2c2;
+    position: relative;
+}
